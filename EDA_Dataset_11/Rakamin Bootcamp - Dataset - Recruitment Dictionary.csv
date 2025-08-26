@@ -1,0 +1,11 @@
+Kolom,Deskripsi
+Candidate_ID,ID unik untuk tiap kandidat
+Age,Usia kandidat
+Education_Level,Tingkat pendidikan terakhir kandidat
+Years_of_Experience,Lama pengalaman kerja (tahun)
+Skill_Score,Skor kemampuan teknis (0–100)
+Interview_Score,Skor hasil interview (0–100)
+Previous_Company_Rating,Rating perusahaan sebelumnya (1–5)
+Expected_Salary,Gaji yang diharapkan kandidat (IDR)
+Cultural_Fit_Score,Skor kecocokan budaya kerja (0–100)
+Selected,"Label target: 1 = diterima, 0 = tidak diterima"
