@@ -1,7 +1,14 @@
 [![banner1](bg.png)](https://www.github.com/4Kings-Rakamin)
 
 
-# Stage0_DataUnderstanding
+# Stage0_Business & DataUnderstanding
+
+![Pandas version](https://img.shields.io/badge/Pandas-v2.3.2-blue)
+![Matplotlib version](https://img.shields.io/badge/Matplotlib-v3.9.4-red)
+![Seaborn version](https://img.shields.io/badge/Seaborn-v0.13.2-orange)
+![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.30.1-darkred)
+![License](https://img.shields.io/badge/License-MIT-darkblue)
+
 
 Repository ini berisi kode dan dokumentasi terkait tahap pertama dalam proses analisis data, yaitu pemahaman data (Data Understanding). Pada tahap ini, kita akan melakukan eksplorasi awal terhadap dataset untuk memahami struktur, kualitas, dan karakteristik data yang akan digunakan dalam analisis lebih lanjut.
 
