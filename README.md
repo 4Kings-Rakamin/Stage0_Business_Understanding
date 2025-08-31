@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheets/d/1MiKSFqe3YV3u2iIxfc7StdMkaoBb1V0U93TeKKkv
 
 ```
 
-### Problem Statement
+## Problem Statement
 - Proses rekrutmen menghadapi tantangan: jumlah pelamar tinggi, waktu terbatas, dan keputusan sering dipengaruhi subjektivitas.
 
 - Analisis dataset 1.500 kandidat menunjukkan strategi agresif memiliki tingkat penerimaan tertinggi (71,7%), sedangkan moderat dan pasif hanya sekitar 14%.
@@ -30,7 +30,7 @@ https://docs.google.com/spreadsheets/d/1MiKSFqe3YV3u2iIxfc7StdMkaoBb1V0U93TeKKkv
 
 - Penelitian ini membangun model prediksi keputusan perekrutan untuk membantu perusahaan mempercepat seleksi, mengurangi subjektivitas, dan mengoptimalkan strategi rekrutmen.
 
-### Kesimpulan Stage_0
+## Kesimpulan Stage_0
 Berdasarkan hasil eksplorasi data yang telah dilakukan, berikut adalah beberapa kesimpulan utama yang dapat diambil:
 1. **Pemilihan Dataset** : Dataset yang digunakan adalah dataset nomer 8 pada link spreadsheet diatas.
 2. **Fitur numerik** seperti **InterviewScore, SkillScore, dan PersonalityScore** menunjukkan perbedaan yang signifikan antara kandidat yang diterima dan tidak diterima. Fitur-fitur ini memiliki **pengaruh yang kuat** terhadap keputusan perekrutan dan sebaiknya dipertimbangkan dalam pemodelan.
@@ -41,7 +41,7 @@ Berdasarkan hasil eksplorasi data yang telah dilakukan, berikut adalah beberapa 
 7. Berdasarkan hasil uji statistik, **fitur-fitur yang memiliki perbedaan signifikan** dengan keputusan perekrutan dapat **diprioritaskan dalam pemodelan** untuk **meningkatkan akurasi prediksi.**
 
 
-### How to Run
+## How to Run
 Untuk mencoba kode dalam repository ini, ikuti langkah-langkah berikut:
 
 ```
@@ -56,5 +56,5 @@ pip install pandas matplotlib seaborn scipy
 
 Jalankan notebook Jupyter untuk melihat hasil analisa dari masing masing dataset 8-11
 
-### License
+## License
 Repository ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
